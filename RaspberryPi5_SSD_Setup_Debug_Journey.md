@@ -53,17 +53,10 @@
 
 ---
 
-##  Sichtbarkeit für Arbeitgeber?
 
-**Ja – unter Bedingungen:**
-- Der Raspberry Pi kann als **"isolierte Lernumgebung"** dokumentiert werden.
-- Eignet sich als DevOps-Toolchain & Portfolio für Embedded, Netzwerk & CI/CD.
-- Die **Dokumentation der Problemlösung** (Boot-Reihenfolge, Kompatibilität) zeigt **Eigeninitiative und Debugging-Fähigkeiten**.
-- Wichtig: **Professioneller Ton**, keine Floskeln über „AI-Hilfe“ – sondern **konkrete Nutzung** als Unterstützung beim Troubleshooting und Lernen.
 
 ---
 
-##  Beispielhafte Formulierung für GitHub-Projektbeschreibung
 
 > **Ziel:** Aufbau einer isolierten Entwicklungsumgebung mit dem Raspberry Pi 5 (16 GB RAM), M.2 SSD (NVMe), und optimierter Boot-Konfiguration. Einsatz für DevOps-Training, CI/CD-Pipeline-Tests, Shell-Scripting und Netzwerkprojekte.
 >
